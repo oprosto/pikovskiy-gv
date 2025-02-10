@@ -1,0 +1,9 @@
+итого 28K
+drwxrwxr-x 3 oprsoto oprsoto 4,0K фев 10 20:27 ./
+drwxrwxr-x 4 oprsoto oprsoto 4,0K фев 10 20:22 ../
+-rw-rw-r-- 1 oprsoto oprsoto  967 фев 10 20:27 config.txt
+-rw-rw-r-- 1 oprsoto oprsoto  167 фев 10 20:23 first.txt
+drwxrwxr-x 8 oprsoto oprsoto 4,0K фев 10 20:27 .git/
+-rw-rw-r-- 1 oprsoto oprsoto    0 фев 10 20:27 ls.txt
+-rw-rw-r-- 1 oprsoto oprsoto   32 фев 10 20:22 README.md
+-rw-rw-r-- 1 oprsoto oprsoto  408 фев 10 20:23 status.txt
